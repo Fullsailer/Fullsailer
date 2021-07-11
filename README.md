@@ -2,7 +2,7 @@
 
 ## Hi there, I'm [John](https://github.com/Fullsailer) 👋
 
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+[![Linkedin Badge]https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 
 [![Linkedin Badge](https://img.shields.io/badge/john-flynn-499358156-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/john-flynn-499358156)](linkedin.com/in/john-flynn-499358156)
 [![Gmail Badge](https://img.shields.io/badge/-johnbishopflynn@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:johnbishopflynn@gmail.com)](mailto:johnbishopflynn@gmail.com) 
