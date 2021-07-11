@@ -9,13 +9,9 @@
 
 I am a software engineer available for remote, regional opportunities, and willing to relocate for the right opertunity. Contract or full time. Experience with the C#, .Net Core 5, MVC, Python, Java, Html, CSS, and JS.
 
-🌱 I’m currently learning ... 
+🌱 I’m currently learning ... Blazer, OCAML, and French "Bonjour, je suis programmeur informatique et gourou financier."
   
-  ![React Native](https://img.shields.io/badge/-ReactNative-black?style=flat-square&logo=react)
-  ![Nodejs](https://img.shields.io/badge/-NodeJS-black?style=flat-square&logo=Node.js)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-  ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
-
+  
 
 ## Languages and Tools:
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -33,11 +29,8 @@ I am a software engineer available for remote, regional opportunities, and willi
 ![visitors](https://komarev.com/ghpvc/?username=Fullsailer&color=brightgreen)
 
 ## Github Stats
-<img src="https://github-readme-stats.vercel.app/api?username=Fullsailer&theme=vue&hide_title=true&hide_border=true&show_icons=true&count_private=true&hide=stars,issues" > <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fullsailer&layout=compact&theme=vue&hide_title=true&hide_border=true" >
-
-
-<!--
-**Fullsailer/Fullsailer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://github-readme-stats.vercel.app/api?username=Fullsailer&theme=vue&hide_title=true&hide_border=true&show_icons=true&count_private=true&hide=stars,issues" > 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fullsailer&layout=compact&theme=vue&hide_title=true&hide_border=true" >
 
 Here are some ideas to get you started:
 
@@ -49,4 +42,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... johnbishopflynn@gmail.com 
 - 😄 Pronouns: ... anything but Sue.
 - ⚡ Fun fact: ... I left home at 14.
+
+<!--
+**Fullsailer/Fullsailer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![React Native](https://img.shields.io/badge/-ReactNative-black?style=flat-square&logo=react)
+  ![Nodejs](https://img.shields.io/badge/-NodeJS-black?style=flat-square&logo=Node.js)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+  ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
+
+
 -->
