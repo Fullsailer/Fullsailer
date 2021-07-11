@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ## Hi there, I'm [John](https://github.com/Fullsailer) 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/john-flynn-499358156)](https://linkedin.com/in/john-flynn-499358156)
