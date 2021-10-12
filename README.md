@@ -46,7 +46,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ... building complex functions for data modeling.
 - 💬 Ask me about ... finance, coffee, tea, bourbon, books, tavel, or writing.
 - 📫 How to reach me: ... johnbishopflynn@gmail.com 
-- 😄 Pronouns: ... anything but Sue, how do you do?.
 - ⚡ Fun fact: ... I left home at 14.
 
 <!--
