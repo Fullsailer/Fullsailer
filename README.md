@@ -1,8 +1,8 @@
 ## Hi there, I'm [John](https://github.com/Fullsailer) 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/john-flynn-499358156){: height="36px" width="36px"}](https://linkedin.com/in/john-flynn-499358156)
-[![Gmail Badge](https://img.shields.io/badge/-johnbishopflynn@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:johnbishopflynn@gmail.com=){: height="36px" width="36px"}](mailto:johnbishopflynn@gmail.com) 
-[![GitHub Fullsailer](https://img.shields.io/github/followers/Fullsailer?label=follow&style=social)](https://github.com/Fullsailer)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/john-flynn-499358156)](https://linkedin.com/in/john-flynn-499358156){: height="36px" width="36px"}
+[![Gmail Badge](https://img.shields.io/badge/-johnbishopflynn@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:johnbishopflynn@gmail.com=)](mailto:johnbishopflynn@gmail.com){: height="36px" width="36px"} 
+[![GitHub Fullsailer](https://img.shields.io/github/followers/Fullsailer?label=follow&style=social)](https://github.com/Fullsailer){: height="36px" width="36px"}
 
 
 I am a software engineer available for remote, regional opportunities, and willing to relocate for the right opertunity. Contract or full time. Experience with the C#, .Net Core 5, MVC, Python, Java, Html, CSS, and JS.
