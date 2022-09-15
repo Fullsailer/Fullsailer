@@ -1,13 +1,12 @@
 ## Hi there, I'm [John](https://github.com/Fullsailer) 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/john-flynn-499358156)](https://linkedin.com/in/john-flynn-499358156)
-[![Gmail Badge](https://img.shields.io/badge/-johnbishopflynn@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:johnbishopflynn@gmail.com=)](mailto:johnbishopflynn@gmail.com)
 [![GitHub Fullsailer](https://img.shields.io/github/followers/Fullsailer?label=follow&style=social)](https://github.com/Fullsailer)
 
 
-I am a software engineer available for remote, regional opportunities, and willing to relocate for the right opertunity. Contract or full time. Experience with the C#, .Net Core 5, MVC, Python, Java, Html, CSS, and JS.
+I am a software engineer with experience in C#, .Net Core 5, MVC, Windows Forms, Python, Java, Html, CSS, JS, Git, Github, Azure Dev Ops, Cyber Security, Netowrking, Emedded Systems, firm ware development.
 
-🌱 I’m currently learning ... Blazer, OCAML, and French "Bonjour, je suis programmeur informatique et gourou financier."
+🌱 I’m currently learning ... Cobol, C++, ComptiaSecurity+, and Cyber Security System, and CISA.  
   
   
 
@@ -41,10 +40,8 @@ I am a software engineer available for remote, regional opportunities, and willi
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... C# Application with .Net Framework and writing when I can. 
-- 🌱 I’m currently learning ... game development in Python, OCamel, and French.
-- 👯 I’m looking to collaborate on ... Financial applications, Machcine Learning, and Financial Modeling.
-- 🤔 I’m looking for help with ... building complex functions for data modeling.
-- 💬 Ask me about ... finance, coffee, tea, bourbon, books, tavel, or writing.
+- 👯 I’m looking to collaborate on ... Financial applications, Machcine Learning, AI, Cyber Testing, and Financial Modeling.
+- 💬 Ask me about ... coffee, tea, books, or writing.
 - 📫 How to reach me: ... fullsailercode@gmail.com 
 
 <!--
