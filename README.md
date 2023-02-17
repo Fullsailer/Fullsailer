@@ -4,9 +4,9 @@
 [![GitHub Fullsailer](https://img.shields.io/github/followers/Fullsailer?label=follow&style=social)](https://github.com/Fullsailer)
 
 
-I am a software engineer with experience in C#, .Net Core 5, MVC, Windows Forms, Python, Java, Html, CSS, JS, Git, Github, Azure Dev Ops, Cyber Security, Netowrking, Emedded Systems, firm ware development.
+I am a software engineer with experience in C#, .Net Core 5, MVC, Windows Forms, Python, Java,Kotlin, Flutter, Html, CSS, JS, Git, Github, Azure Dev Ops, Cyber Security, SecDevOps, Netowrking, Emedded Systems, Firmware Development.
 
-🌱 I’m currently learning ... Cobol, C++, ComptiaSecurity+, and Cyber Security System, and CISA.  
+🌱 I’m currently learning ... Kotlin, C++, ComptiaSecurity+, CISA, CISSP, and CEH.  
   
   
 
@@ -40,7 +40,7 @@ I am a software engineer with experience in C#, .Net Core 5, MVC, Windows Forms,
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... C# Application with .Net Framework and writing when I can. 
-- 👯 I’m looking to collaborate on ... Financial applications, Machcine Learning, AI, Cyber Testing, and Financial Modeling.
+- 👯 I’m looking to collaborate on ... Financial applications, Machcine Learning, AI, Cyber Security Testing, and Financial Modeling.
 - 💬 Ask me about ... coffee, tea, books, or writing.
 - 📫 How to reach me: ... fullsailercode@gmail.com 
 
