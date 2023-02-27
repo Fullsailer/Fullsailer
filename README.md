@@ -14,7 +14,8 @@ I am a software engineer with experience in C#, .Net Core 5, MVC, Windows Forms,
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
   ![React JS](https://img.shields.io/badge/-ReactJS-black?style=flat-square&logo=react)
   ![C#](https://img.shields.io/badge/-C%23-007ACC?style=flat-square&logo=c-sharp)
-  ![C#](https://img.shields.io/badge/-Python-white?style=flat-square&logo=Python)
+  ![Python](https://img.shields.io/badge/-Python-white?style=flat-square&logo=Python)
+  ![Kotlin](https://img.shields.io/badge/-Kotlin-purple?style=flat-square&logo=Kotlin)
 <br>
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
@@ -24,7 +25,6 @@ I am a software engineer with experience in C#, .Net Core 5, MVC, Windows Forms,
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
   ![VSCode](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code)
 <br>
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 <br>
