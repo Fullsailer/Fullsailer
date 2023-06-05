@@ -16,6 +16,7 @@ I am a software engineer with experience in C#, .Net Core 5, MVC, Windows Forms,
   ![C#](https://img.shields.io/badge/-C%23-007ACC?style=flat-square&logo=c-sharp)
   ![Python](https://img.shields.io/badge/-Python-white?style=flat-square&logo=Python)
   ![Kotlin](https://img.shields.io/badge/-Kotlin-purple?style=flat-square&logo=Kotlin)
+  ![C++](https://img.shields.io/badge/-C++-blue?style=flat-square&logo=C++)
 <br>
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
