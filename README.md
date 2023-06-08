@@ -6,7 +6,7 @@
 
 I am a software engineer with experience in C#, .Net Core 5, MVC, Windows Forms, Python, Java,Kotlin, Flutter, Html, CSS, JS, Git, Github, Azure Dev Ops, Cyber Security, SecDevOps, Netowrking, Emedded Systems, Firmware Development.
 
-🌱 I’m currently learning ... Kotlin, C++, ComptiaSecurity+, CISA, CISSP, and CEH.  
+🌱 I’m currently learning ... C++, CISSP, and CEH.  
   
   
 
