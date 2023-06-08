@@ -2,8 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/john-flynn-499358156)](https://linkedin.com/in/john-flynn-499358156)
 [![GitHub Fullsailer](https://img.shields.io/github/followers/Fullsailer?label=follow&style=social)](https://github.com/Fullsailer)
-[![GitHub Fullsailer](https://img.shields.io/github/followers/Fullsailer?style=for-the-badge&logo=social)](https://github.com/Fullsailer)
-?style=for-the-badge&logo=appveyor	
+
 
 
 I am a software engineer with experience in C#, .Net Core 5, MVC, Windows Forms, Python, Java,Kotlin, Flutter, Html, CSS, JS, Git, Github, Azure Dev Ops, Cyber Security, SecDevOps, Netowrking, Emedded Systems, Firmware Development.
